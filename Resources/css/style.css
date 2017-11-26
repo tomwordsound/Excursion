@@ -4,9 +4,16 @@ body {
   text-align: center;
 }
 h1, h2 {
-
   color: white;
 }
+h2 {
+  font-size: 42px;
+}
+p {
+  font-size: 21px
+  color: gray;
+}
+
 .topheading {
   font-weight: normal;
   font-size: 50px;
