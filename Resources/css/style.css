@@ -1,3 +1,21 @@
 body {
   background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+h1, h2 {
+
+  color: white;
+}
+.topheading {
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+.cta {
+  color: aquamarine;
+  font-size: 16px
+}
+.cta a {
+  text-align: center;
 }
