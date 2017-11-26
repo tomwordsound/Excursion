@@ -1,11 +1,18 @@
+p {
+  font-size: 21px
+  color: gray;
+}
+
 body {
   background-color: black;
   font-family: verdana;
   text-align: center;
 }
+
 h1, h2 {
   color: white;
 }
+
 h2 {
   font-size: 42px;
 }
@@ -26,4 +33,7 @@ p {
 }
 .cta a {
   text-align: center;
+}
+.footer {
+  text-align: right;
 }
